@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3788eadd-3437-44a8-8069-0992eb029b8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k73a8f4KR9aa9xcTjAU5Fz2XOT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3788eadd-3437-44a8-8069-0992eb029b8e" name="Default Changelist" comment="" />
+      <created>1605037865361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605037865361</updated>
+      <workItem from="1605037866367" duration="298000" />
+      <workItem from="1605038189511" duration="2615000" />
+      <workItem from="1605040926560" duration="3403000" />
+      <workItem from="1605087068157" duration="8377000" />
+      <workItem from="1605103404759" duration="2193000" />
+      <workItem from="1605105890313" duration="2519000" />
+      <workItem from="1605126486024" duration="38000" />
+      <workItem from="1605129711151" duration="8731000" />
+      <workItem from="1605182340983" duration="1540000" />
+      <workItem from="1606399821663" duration="620000" />
+      <workItem from="1606400764050" duration="64000" />
+      <workItem from="1606599688745" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="839" y="332" width="731" height="421" key="#Web_Browsers" timestamp="1605038742767">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="839" y="332" width="731" height="421" key="#Web_Browsers/0.30.1920.1050@0.30.1920.1050" timestamp="1605038742767" />
+    <state x="954" y="310" key="FileChooserDialogImpl" timestamp="1606599861563">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="954" y="298" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1605038739900" />
+    <state x="954" y="310" key="FileChooserDialogImpl/0.46.1920.1034@0.46.1920.1034" timestamp="1606599861563" />
+    <state x="-24" y="176" key="SettingsEditor" timestamp="1605038341356">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-24" y="176" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1605038341356" />
+    <state x="1205" y="296" key="search.everywhere.popup" timestamp="1605040029058">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1205" y="296" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1605040029058" />
+  </component>
+</project>
