@@ -162,11 +162,60 @@ let getTextLiEl2 = document.getElementsByClassName('listElement2');
 console.log(getTextLiEl2[0].textContent);
 
 // -- отримує всі елементи li та змінює ім колір фону на сірий
+let getElLi = document.getElementsByTagName('li');
+for (let i = 0; i < getElLi.length; i++) {
+    console.log(getElLi[i].style.backgroundColor = 'grey');
+}
+
 // -- отримує всі елементи 'a' та додає їм клас anchor
+let getElA = document.getElementsByTagName('a')
+for (let i = 0; i < getElA.length; i++) {
+    getElA[i].classList.add('anchor')
+}
+
 // -- отримує всі елементи 'a' та у випадку, якщо текстовий контен елементу дорівнює link3, змінює йому розмір тексту на 40 пікселів
+for (let i = 0; i < getElA.length; i++) {
+    if(getElA[i].textContent === 'link3') {
+        getElA[i].style.fontSize = '40px'
+    }
+}
 // -- отримує всі елементи 'a' та додає їм клас element_XXX. Де XXX - текстовий контент елементу a
+for (let i = 0; i < getElA.length; i++) {
+   if(getElA[i].textContent === 'XXX'){
+       getElA[i].classList.add('element_XXX')
+   }
+}
+
 // -- отримує всі елементи 'sub-header' та змінює колір фону. Фон отримати з prompt()
+let getElSubH = document.getElementsByClassName('sub-header')
+let promtColor = prompt('Задай цвет');
+for (let i = 0; i < getElSubH.length; i++) {
+    getElSubH[i].style.backgroundColor = promtColor;
+}
+
 // -- отримує всі елементи 'sub-header' та змінює колір тексту у видаку якщо текст елемнту = content 2 segment . Колір отримати з prompt()
+let getElSubH2 = document.getElementsByClassName('sub-header')
+let promtColor2 = prompt('Задай цвет');
+for (let i = 0; i < getElSubH2.length; i++) {
+    if(getElSubH2[i].textContent === 'content 2 segment'){
+        getElSubH[i].style.backgroundColor = promtColor2;
+    }
+}
 // -- отримує елемент з класом content_1 та заміняє  в ньому тест на довільний. Текст отримати з prompt()
-// -- отримати елементи p та змінити їм paddin на довільне значення
+let getClassCont = document.getElementsByClassName('content_1')
+let promtText2 = prompt('Задай текст');
+for (let i = 0; i < getClassCont.length; i++) {
+    getClassCont[i].textContent = promtText2;
+}
+
+// -- отримати елементи p та змінити їм padding на довільне значення
+let getElP = document.getElementsByTagName('p')
+for (let i = 0; i < getElP.length; i++) {
+    getElP[i].style.padding = '100px'
+}
+
 // -- отримати елементи з класом text2 та змінити їм текст на довільне значення
+let getElText2 = document.getElementsByClassName('text2')
+for (let i = 0; i < getElText2.length; i++) {
+    getElText2[i].textContent = 'garry privet'
+}
